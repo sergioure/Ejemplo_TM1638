@@ -1,7 +1,8 @@
 /*************************************************** 
 Fuente original modulo TM1638: https://github.com/rjbatista/tm1638-library
 Fuente original FreqCount: http://www.pjrc.com/teensy/td_libs_FreqCount.html
-Código Arduino : 
+Código Arduino : https://github.com/sergioure/Ejemplo_TM1638/edit/master/Ejemplo1.ino
+Video: https://youtu.be/iR1Vgb-Vw4o
 
 FRECUENCIMETRO DE 4 CANALES
 
